@@ -13,7 +13,6 @@ The goal was to derive insights that can help a bank improve customer engagement
 💼 Key Tasks Performed
 
 ✔ Cleaned and transformed 10,000+ customer transactions in Excel
-✔ Wrote advanced SQL queries (CTEs, Window Functions, Aggregations) for data preparation
 ✔ Built an interactive Power BI dashboard with:
 
 Customer demographics
